@@ -7,7 +7,7 @@
     "dev": "dead-server --port=1111 --host=localhost"
   },
   "keywords": [],
-  "author": "Arnoldas (https://github.com/mytherx)",
+  "author": "Arnold (https://github.com/mytherx)",
   "license": "MIT",
   "devDependencies": {
     "dead-server": "^1.0.9"
